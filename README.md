@@ -1,10 +1,6 @@
 # Optimizador de cortes de melamina
 
-Este repositorio contiene sólo el **build estático** de la app (generado
-automáticamente en cada deploy) para servirla con GitHub Pages. El código
-fuente vive en un repositorio privado — este `README.md` también se genera
-en cada build, así que cualquier edición manual acá se pierde en el próximo
-deploy.
+Build estático de la app, publicado en GitHub Pages.
 
 **App online:** https://allinsonmota.github.io/cuts-app/
 
